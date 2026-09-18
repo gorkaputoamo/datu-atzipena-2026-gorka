@@ -1,4 +1,4 @@
-package lehenetsitakoa;
+package paagbi;
 
 import static org.junit.Assert.assertTrue;
 
