@@ -1,0 +1,7 @@
+[F] desktop.ini
+[K] GitHub
+[K] JAVA
+[K] Mi música
+[K] Mis imágenes
+[K] Mis vídeos
+[K] Visual Studio 18
